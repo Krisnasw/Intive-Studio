@@ -88,7 +88,9 @@
                             </div>
                         </div>
                         <h3>Syahru Murtadho</h3>
+                        <h5>UX/UI Designer</h5>
                         <h5>Front-end Developer</h5>
+                        <h5>System Analyst</h5>
                     </div>
                 </div>  <!-- item wrapper end -->
                 <div class="item text-center">

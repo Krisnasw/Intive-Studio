@@ -21,16 +21,16 @@
         <!-- FontAwesome -->
         <link rel="stylesheet" href="css/font-awesome.min.css"/>
         <!-- Animation -->
-        <link rel="stylesheet" href="css/animate.css" />
+        <link rel="stylesheet" href="css/animate.min.css" />
         <!-- Owl Carousel -->
-        <link rel="stylesheet" href="css/owl.carousel.css"/>
-        <link rel="stylesheet" href="css/owl.theme.css"/>
+        <link rel="stylesheet" href="css/owl.carousel.min.css"/>
+        <link rel="stylesheet" href="css/owl.theme.min.css"/>
         <!-- Pretty Photo -->
         <link rel="stylesheet" href="css/prettyPhoto.css"/>
         <!-- Main color style -->
-        <link rel="stylesheet" href="css/red.css"/>
+        <link rel="stylesheet" href="css/red.min.css"/>
         <!-- Template styles-->
-        <link rel="stylesheet" href="css/custom.css" />
+        <link rel="stylesheet" href="css/custom.min.css" />
         <!-- Responsive -->
         <link rel="stylesheet" href="css/responsive.css" />
         <link rel="stylesheet" href="css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
@@ -129,7 +129,7 @@
                                     <i class="fa fa-globe"></i>
                                     <h5>Web Apps Developer</h5>
                                     <p>You can not ignore mobile devices anymore and with this theme all your visitors will be very pleased how they see your website.</p>
-                                    <button class="btn btn-main"> Read More</button>
+                                    
                                 </div>
                             </div>
                         <div class="col-md-3 col-xs-12 col-sm-6">
@@ -137,7 +137,7 @@
                                     <i class="fa fa-android"></i>
                                     <h5>Mobile Apps Developer</h5>
                                     <p>This theme integrates with WordPress in the most awesome way! Functionality is separated from style through uncreadble useful for user. </p>
-                                    <button class="btn btn-main"> Read More</button>
+                                    
                                 </div>
                         </div> <!-- Col-md-4 Single_feature End -->
                         <div class="col-md-3 col-xs-12 col-sm-6">
@@ -145,7 +145,7 @@
                                     <i class="fa fa-tint"></i>
                                     <h5>Digital Design</h5>
                                     <p>Full Time support. Very much helpful and possesive at the same time. With all this in mind you won’t be outdated anytime soon. Really!! </p>
-                                    <button class="btn btn-main"> Read More</button>
+                                    
                                 </div>
                         </div> <!-- Col-md-4 Single_feature End -->
                         <div class="col-md-3 col-xs-12 col-sm-6">
@@ -153,7 +153,7 @@
                                     <i class="fa fa-desktop"></i>
                                     <h5>IT Security</h5>
                                     <p>Shadow is as optimized as it gets. No useless wrappers, no double headings, everything is coded with SEO in mind. Content is KING! </p>
-                                    <button class="btn btn-main"> Read More</button>
+                                    
                                 </div>
                         </div> <!-- Col-md-4 Single_feature End -->
                         <!-- <button class="btn btn-main"> Read More</button> -->
@@ -654,7 +654,7 @@
                         <div class="panel-heading " role="tab" id="headingThree">
                           <h4 class="panel-title">
                             <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                              Garansinya apa bikin di Aksamedia ?
+                              Garansinya apa bikin di Intive Studio ?
                             </a>
                           </h4>
                         </div>
@@ -708,8 +708,6 @@
 
 
 <div class="clearfix"></div>
-
-<?php include "pricing.php"; ?>
 
 <?php include "blog.php"; ?>
 
@@ -810,7 +808,7 @@
             </div>
             <div class="item client_logo">
               <a href="#">
-                <img src="images/clients/client6.png" alt="client" class="img-responsive">
+                <img src="images/clients/client6.jpg" alt="client" class="img-responsive">
               </a>
             </div>
             <div class="item client_logo">
@@ -951,7 +949,7 @@
           lng: 90.407143,
           title: 'Smilebuddy',
           infoWindow: { 
-            content: '<p> Smilebuddy, Dhanmondhi 27</p>'
+            content: '<p> Surabaya, Indonesia</p>'
           },
           icon: "images/map1.png"
         });
